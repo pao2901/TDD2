@@ -1,0 +1,25 @@
+header
+{
+    background-color: blueviolet;
+}
+.carousel-inner
+{
+ left: 100;
+ margin: auto;
+ top: 100;
+ width: 1150px;
+ height: 1150px;
+}
+.seccion
+{
+    margin: auto; 
+}
+.table
+{
+    width: 500;
+
+}
+.tr
+{
+    height: 100;
+}
